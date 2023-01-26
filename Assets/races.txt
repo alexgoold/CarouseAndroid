@@ -1,0 +1,60 @@
+space 0
+Aaracokra
+Aasimar
+Bugbear
+Centaur
+Changeling
+Deep Gnome
+Dhampir
+Dragonborn
+Duergar
+Hill Dwarf
+Mountain Dwarf
+Eladrin
+Drow
+Wood Elf
+High Elf
+Fariy
+Firbolg
+Fire Genasi
+Air Genasi
+Water Genasi
+Earth Genasi
+Githyanki
+Githzerai
+Rock Gnome
+Forest Gnome
+Deep Gnome
+Goblin
+Half Elf
+Half Orc
+Halfling
+Ling
+Harengon
+Hexblood
+Hobgoblin
+Human
+Kalashtar
+Kenku
+Kobold
+Leonin
+Lizardfolk
+Loxodon
+Minotaur
+Orc
+Owlin
+Reborn
+Satyr
+Sea Elf
+Shadar-Kai
+Shifter
+Simic Hybrid
+Tabaxi
+Tiefling
+Tortle
+Triton
+Vedalken
+Verdan
+Warforged
+Yuan-Ti
+Yuan-ti Pureblood

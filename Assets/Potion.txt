@@ -1,0 +1,59 @@
+0
+Bottled Breath
+Elixir of Health
+Oil of Etherealness
+Oil of Sharpness
+Oil of Slipperiness
+Philter of Love
+Potion of Acid Resistance
+Potion of Advantage
+Potion of Animal Friendship
+Potion of Aqueous Form
+Potion of Clairvoyance
+Potion of Climbing
+Potion of Cloud Giant Strength
+Potion of Cold Resistance
+Potion of Comprehension
+Potion of Diminution
+Potion of Dragon's Majesty
+Potion of Fire Breath
+Potion of Fire Giant Strength
+Potion of Fire Resistance
+Potion of Flying
+Potion of Force Resistance
+Potion of Frost Giant Strength
+Potion of Gaseous Form
+Potion of Giant Size
+Potion of Giant Strength
+Potion of Greater Healing
+Potion of Growth
+Potion of Healing
+Potion of Healing
+Potion of Heroism
+Potion of Hill Giant Strength
+Potion of Invisibility
+Potion of Invulnerability
+Potion of Lightning Resistance
+Potion of Longevity
+Potion of Maximum Power
+Potion of Mind Control
+Potion of Mind Control (beast)
+Potion of Mind Control (humanoid)
+Potion of Mind Control (monster)
+Potion of Mind Reading
+Potion of Necrotic Resistance
+Potion of Poison
+Potion of Poison Resistance
+Potion of Possibility
+Potion of Psychic Resistance
+Potion of Radiant Resistance
+Potion of Resistance
+Potion of Speed
+Potion of Stone Giant Strength
+Potion of Storm Giant Strength
+Potion of Superior Healing
+Potion of Supreme Healing
+Potion of Thder Resistance
+Potion of Vitality
+Potion of Watchful Rest
+Potion of Water Breathing

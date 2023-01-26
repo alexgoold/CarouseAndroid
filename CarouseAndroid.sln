@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carouse App", "Carouse App.csproj", "{E416DEEB-7842-4FD3-A0FC-62CCC346008A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E416DEEB-7842-4FD3-A0FC-62CCC346008A}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{E416DEEB-7842-4FD3-A0FC-62CCC346008A}.Debug|Any CPU.Deploy.0 = Release|Any CPU
+		{E416DEEB-7842-4FD3-A0FC-62CCC346008A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E416DEEB-7842-4FD3-A0FC-62CCC346008A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E416DEEB-7842-4FD3-A0FC-62CCC346008A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17353B8D-3847-4F2C-964A-6FF2D40E8889}
+	EndGlobalSection
+EndGlobal
